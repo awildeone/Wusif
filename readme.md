@@ -1,3 +1,5 @@
+#Wusif - A bot for the Gods
+
 Wusif is based completely on PyBorg, a python based bot. LazerDX changed what he needed/wanted.
 Wusif was eventually passed to me as the caretaker of this rouge bot for Twitch Chats.
 
@@ -7,28 +9,28 @@ If you know, message me or fix it :D
 
 ---------------------------------------------------------------------------------
 _
-# PyBorg: The python AI bot.
-#
-# Copyright (c) 2000, 2006 Tom Morton, Sébastien Dailly
-#
-# This bot was inspired by the PerlBorg, by Eric Bock.
-#
-# This program is free software; you can redistribute it and/or
-# modify it under the terms of the GNU General Public License
-# as published by the Free Software Foundation; either version 2
-# of the License, or (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program; if not, write to the Free Software
-# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
-#
-# Tom Morton <tom@moretom.net>
-#
+ PyBorg: The python AI bot.
+
+ Copyright (c) 2000, 2006 Tom Morton, Sébastien Dailly
+
+ This bot was inspired by the PerlBorg, by Eric Bock.
+
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+ Tom Morton <tom@moretom.net>
+
 
 PyBorg 1.1.0 needs Python 1.5.2 or greater (www.python.org).
 The 'irclib' and 'ircbot' modules in the PyBorg archive were written by Joel
