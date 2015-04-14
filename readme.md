@@ -7,8 +7,10 @@ I know that the program crashes when trying to close (if you are looking in a te
 But alas, I know almost nothing about coding, so it will probably stay broken. Lol.  
 If you know, message me or fix it :D
 
+Check out http://wusif.in for a nice list of commands, or look at Commands-List.
+
+
 ---------------------------------------------------------------------------------
-_
  PyBorg: The python AI bot.
 
  Copyright (c) 2000, 2006 Tom Morton, Sébastien Dailly
